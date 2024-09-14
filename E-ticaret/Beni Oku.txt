@@ -1,0 +1,13 @@
+Projenin frontend kısmını çalıştırmak için adımlar ve gerekli extensionlar;
+
+1.Node js.
+2.css.
+
+-----------------
+Çalıştırmak için adımlar.
+
+1.npm install.
+2.cd src
+3.node backend.js
+4.Başka bir termial aç
+5.npm start.
